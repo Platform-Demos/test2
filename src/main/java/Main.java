@@ -8,7 +8,7 @@ public class Main {
     public static Main getInstance() //{
         return ourInstance;
     }
-    //comment
+    
 
     private Main()// {
         System.out.println("something");
