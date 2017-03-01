@@ -5,12 +5,12 @@
 public class Main {
     private static Main ourInstance = new Main();
 
-    public static Main getInstance() {
+    public static Main getInstance() //{
         return ourInstance;
     }
     //comment
 
-    private Main() {
+    private Main()// {
         System.out.println("something");
     }
 }
