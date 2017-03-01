@@ -11,6 +11,5 @@ public class Main {
 
     private Main() {
         System.out.println("something");
-        System.out.println("something");
     }
 }
